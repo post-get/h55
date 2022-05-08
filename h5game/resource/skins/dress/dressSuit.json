@@ -1,0 +1,4 @@
+{"file":"dressSuit.png","frames":{
+"dressSuitbg":{"x":1,"y":1,"w":384,"h":121,"offX":0,"offY":0,"sourceW":384,"sourceH":121},
+"dressSuitBoy":{"x":391,"y":1,"w":54,"h":56,"offX":0,"offY":0,"sourceW":54,"sourceH":56},
+"dressSuitGirl":{"x":451,"y":1,"w":54,"h":56,"offX":0,"offY":0,"sourceW":54,"sourceH":56}}}
